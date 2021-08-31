@@ -1,2 +1,2 @@
-sphinx>=3.0
-sphinxcontrib-httpdomain
+sphinx_rtd_theme>=0.4.2
+sphinxcontrib-bibtex==0.4.1
