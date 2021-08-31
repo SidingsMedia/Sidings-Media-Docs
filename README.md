@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: Copyright (c) 2021 Sidings Media
 SPDX-License-Identifier: MIT
 -->
 # SMRC-template
-[![REUSE status](https://api.reuse.software/badge/github.com/SidingsMedia/SMRC-template)](https://api.reuse.software/info/github.com/SidingsMedia/SMRC-template) ![GitHub branch checks state](https://img.shields.io/github/checks-status/SidingsMedia/SMRC-template/main?label=main%20checks) ![GitHub branch checks state](https://img.shields.io/github/checks-status/SidingsMedia/SMRC-template/develop?label=develop%20checks) ![GitHub issues](https://img.shields.io/github/issues/SidingsMedia/SMRC-template) ![GitHub last commit](https://img.shields.io/github/last-commit/sidingsmedia/SMRC-template) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SidingsMedia/SMRC-template) ![Lines of code](https://img.shields.io/tokei/lines/github/SidingsMedia/SMRC-template)
+<!-- [![REUSE status](https://api.reuse.software/badge/github.com/SidingsMedia/SMRC-template)](https://api.reuse.software/info/github.com/SidingsMedia/SMRC-template) ![GitHub branch checks state](https://img.shields.io/github/checks-status/SidingsMedia/SMRC-template/main?label=main%20checks) ![GitHub branch checks state](https://img.shields.io/github/checks-status/SidingsMedia/SMRC-template/develop?label=develop%20checks) ![GitHub issues](https://img.shields.io/github/issues/SidingsMedia/SMRC-template) ![GitHub last commit](https://img.shields.io/github/last-commit/sidingsmedia/SMRC-template) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SidingsMedia/SMRC-template) ![Lines of code](https://img.shields.io/tokei/lines/github/SidingsMedia/SMRC-template) -->
 
 The template for all SMRC projects
 
