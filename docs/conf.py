@@ -22,10 +22,10 @@ sys.path.append(os.path.abspath('./demo/'))
 import sphinx_rtd_theme
 from sphinx.locale import _
 
-project = u'Sidings Media Documentation'
+project = u'Read the Docs Sphinx Theme'
 slug = re.sub(r'\W+', '-', project.lower())
-# version = '0.5.1'
-# release = '0.5.1'
+version = '0.5.1'
+release = '0.5.1'
 author = u'Sidings Media'
 copyright = author
 language = 'en'
@@ -46,6 +46,8 @@ locale_dirs = ['locale/']
 gettext_compact = False
 
 master_doc = 'index'
+suppress_warnings = ['image.nonlocal_uri']
+pygments_style = 'default'
 
 intersphinx_mapping = {
     'rtd': ('https://docs.readthedocs.io/en/latest/', None),
@@ -53,8 +55,27 @@ intersphinx_mapping = {
 }
 
 html_theme = 'sphinx_rtd_theme'
-
+html_theme_options = {
+    'logo_only': True,
+    'navigation_depth': 5,
+}
 html_context = {}
+
+if not 'READTHEDOCS' in os.environ:
+    html_static_path = ['_static/']
+    html_js_files = ['debug.js']
+
+    # Add fake versions for local QA of the menu
+    html_context['test_versions'] = list(map(
+        lambda x: str(x / 10),
+        range(1, 100)
+    ))
+
+html_logo = "demo/static/logo-wordmark-light.svg"
+html_show_sourcelink = True
+
+htmlhelp_basename = slug
+
 
 latex_documents = [
   ('index', '{0}.tex'.format(slug), project, author, 'manual'),
