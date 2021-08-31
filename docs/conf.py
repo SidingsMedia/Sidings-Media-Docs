@@ -4,11 +4,6 @@ import sys
 import os
 import re
 
-# Prefer to use the version of the theme in this repo
-# and not the installed version of the theme.
-sys.path.insert(0, os.path.abspath('..'))
-sys.path.append(os.path.abspath('./demo/'))
-
 import sphinx_rtd_theme
 from sphinx_rtd_theme import __version__ as theme_version
 from sphinx_rtd_theme import __version_full__ as theme_version_full
