@@ -19,6 +19,10 @@ Supported Projects
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
 | SMRC logos          | https://github.com/SidingsMedia/SMRC-logos          | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
+| SMRC bootloader     | https://github.com/SidingsMedia/SMRC-bootloader     | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
++---------------------+-----------------------------------------------------+--------------------------------------------------------+
+| SMRC template       | https://github.com/SidingsMedia/SMRC-template       | No docs                                                |
++---------------------+-----------------------------------------------------+--------------------------------------------------------+
 
 Unsupported projects
 ---------------------
@@ -26,4 +30,6 @@ Unsupported projects
 | Project              | URL                                                  | Documentation URL |
 +======================+======================================================+===================+
 | Pixelserv TLS pihole | https://github.com/SidingsMedia/pixelserv-tls-pihole | No docs           |
++----------------------+------------------------------------------------------+-------------------+
+| MRC                  | https://github.com/SidingsMedia/MRC                  | No docs           |
 +----------------------+------------------------------------------------------+-------------------+
