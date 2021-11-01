@@ -11,15 +11,15 @@ Supported Projects
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
 | Project             | URL                                                 | Documentation URL                                      |
 +=====================+=====================================================+========================================================+
-| SMRC Desktop Client | https://github.com/SidingsMedia/SMRC-Desktop-Client | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
+| SMRC Desktop Client | https://github.com/SidingsMedia/SMRC-Desktop-Client | https://docs.sidingsmedia.com/projects/smrc/en/stable/ |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
-| SMRC firmware       | https://github.com/SidingsMedia/SMRC-firmware       | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
+| SMRC firmware       | https://github.com/SidingsMedia/SMRC-firmware       | https://docs.sidingsmedia.com/projects/smrc/en/stable/ |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
-| SMRC hardware       | https://github.com/SidingsMedia/SMRC-hardware       | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
+| SMRC hardware       | https://github.com/SidingsMedia/SMRC-hardware       | https://docs.sidingsmedia.com/projects/smrc/en/stable/ |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
-| SMRC logos          | https://github.com/SidingsMedia/SMRC-logos          | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
+| SMRC logos          | https://github.com/SidingsMedia/SMRC-logos          | https://docs.sidingsmedia.com/projects/smrc/en/stable/ |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
-| SMRC bootloader     | https://github.com/SidingsMedia/SMRC-bootloader     | https://docs.sidingsmedia.com/projects/smrc/en/latest/ |
+| SMRC bootloader     | https://github.com/SidingsMedia/SMRC-bootloader     | https://docs.sidingsmedia.com/projects/smrc/en/stable/ |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
 | SMRC template       | https://github.com/SidingsMedia/SMRC-template       | No docs                                                |
 +---------------------+-----------------------------------------------------+--------------------------------------------------------+
